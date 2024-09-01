@@ -1,16 +1,27 @@
-# Welcome to your Expo app 👋
+# Welcome to my ToDo-App 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
 
-1. Install dependencies
+1. Import project to your Local System
+
+   ```bash
+   git colne 
+   ```
+
+3. Install dependencies
 
    ```bash
    npm install
    ```
+   
+4. Insatll apk
 
-2. Start the app
+   https://drive.google.com/file/d/1CskUhKYSpkdsd-Js6DO2Bl-yY-ik0cdB/view?usp=sharing
+
+
+5. Start the app
 
    ```bash
     npx expo start
