@@ -7,7 +7,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 1. Import project to your Local System
 
    ```bash
-   git colne 
+   git clone https://github.com/SAHIL080603/ToDoApp.git
    ```
 
 3. Install dependencies
@@ -16,9 +16,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
    
-4. Insatll apk
+4. Insatll development apk (Refer following expo documentation for development build)
 
-   https://drive.google.com/file/d/1CskUhKYSpkdsd-Js6DO2Bl-yY-ik0cdB/view?usp=sharing
+   (https://docs.expo.dev/get-started/set-up-your-environment/?mode=development-build)
 
 
 5. Start the app
@@ -26,25 +26,21 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+6. Scan the QR that pop-ups in the terminal and you are ready to go
 
-In the output, you'll find options to open the app in a
+### Some of the challenges that I faced are as follows : 
+1. Setting up environment, I know react but expo is new as well as exciting for me.
+2. I'm familiar with SQL, but SQLite is new for me and setting it up in my project was fun.
+3. Overall new syntaxes and unexpected errors made the development of this project really exploring.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Screenshots:-
+<img src="https://github.com/user-attachments/assets/a83b4bc6-e2a6-44af-a888-205c60140579" width="300" />
+<img src="https://github.com/user-attachments/assets/185abc6b-5329-4d27-b6d3-8a43a15199c9" width="300" />
+<img src="https://github.com/user-attachments/assets/48f8af3d-d474-4d2d-9d5c-3f072b43311a" width="300" />
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## ScreenRecoding:-
+https://github.com/user-attachments/assets/4645ebc0-7873-4a0d-888b-d41ed15249bf
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 ## Learn more
 
